@@ -6,12 +6,12 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
-cotes:
-  name: Cotes Chung
-  twitter: cotes2020
-  url: https://github.com/cotes2020/
+ Mariano Alfonso:
+  name: Mariano Alfonso
+#  twitter: 
+  url: https://www.linkedin.com/in/mariano-alfonso
 
-sille_bille:
-  name: Dinesh Prasanth Moluguwan Krishnamoorthy
-  twitter: dinesh_MKD
-  url: https://github.com/SilleBille/
+# other_username:
+#  name: 
+#  twitter: 
+#  url: https://github.com/username

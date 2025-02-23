@@ -1,7 +1,13 @@
 <!-- Post sharing snippet -->
 
 <div class="share-wrapper d-flex align-items-center">
-  <span class="share-label text-muted">{{ site.data.locales[include.lang].post.share }}</span>
+
+   <!-- Volver activar share-label text-muted para los dos puntos ":" -->
+
+  <!-- <span class="share-label text-muted">{{ site.data.locales[include.lang].post.share }}</span> -->
+
+  <!--  Volver activar share-label text-muted para los dos puntos ":" -->
+
   <span class="share-icons">
     {% capture title %}{{ page.title }} - {{ site.title }}{% endcapture %}
     {% assign title = title | uri_escape %}
@@ -46,7 +52,13 @@
       title="{{ site.data.locales[include.lang].post.button.share_link.title }}"
       data-title-succeed="{{ site.data.locales[include.lang].post.button.share_link.succeed }}"
     >
-      <i class="fa-fw fas fa-link pe-none fs-6"></i>
+
+     <!-- Volver activar fa-fw fas fa-link pe-none fs-6 para activar el "logo" del "clip" -->
+
+     <!-- <i class="fa-fw fas fa-link pe-none fs-6"></i> -->
+
+     <!-- Volver activar fa-fw fas fa-link pe-none fs-6 para activar el "logo" del "clip" -->
+
     </button>
   </span>
 </div>
