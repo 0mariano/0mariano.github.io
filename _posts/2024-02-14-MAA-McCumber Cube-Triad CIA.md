@@ -11,7 +11,7 @@ image:
   alt: McCumber Cube and Triad CIA.
 ---
 
-[Download Article](https://github.com/0mariano/0mariano.github.io/blob/master/PDFs%20and%20tex/Articles/MAA-McCumber%20Cube-Triad%20CIA.pdf)
+[Download Article](https://github.com/0mariano/0mariano.github.io/blob/master/PDFs%20and%20Tex/Articles/MAA-McCumber%20Cube-Triad%20CIA.pdf)
 
 ---
 
