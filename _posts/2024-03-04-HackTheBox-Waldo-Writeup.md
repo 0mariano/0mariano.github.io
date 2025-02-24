@@ -11,7 +11,7 @@ image:
   alt: Máquina Waldo de la Plataforma Hack The Box.
 ---
 
-[Download Write-Up](https://github.com/0mariano/0mariano.github.io/blob/master/PDFs%20and%20tex/Write-Up/MAA-Write-Up-Waldo.pdf)
+[Download Write-Up](https://github.com/0mariano/0mariano.github.io/blob/master/PDFs%20and%20Tex/Write-Up/MAA-Write-Up-Waldo.pdf)
 
 ---
 
