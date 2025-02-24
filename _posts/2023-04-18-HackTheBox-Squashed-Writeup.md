@@ -22,7 +22,7 @@ Como siempre antes de escanear los puertos con **Nmap** le hacemos un <span styl
 
 ![](/assets/img/HTB/writeup-squashed/TrazaICMP.png) _**Figure 1**: Traza ICMP._
 
-En este caso nos responde y me arroja una **TTL** de 63, por lo que acercarse a 64, me enfrento a una maquina <span style="color:green"> Linux </span>.
+En este caso nos responde y me arroja una **TTL** de 63, por lo que acercarse a 64, me enfrento a una maquina <span style="color:green"> Linux</span>.
 
 <div style="display: flex; justify-content: center; width: 100%;">
   <table style="width: 100%; table-layout: fixed;">
