@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: compress
-permalink: /
+permalink: /feed.xml
 # Atom Feed, reference: https://validator.w3.org/feed/docs/atom.html
----
+--- -->
 <!-- 
 {% capture source %}
 <feed xmlns="http://www.w3.org/2005/Atom">
